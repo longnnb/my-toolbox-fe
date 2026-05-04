@@ -8,7 +8,9 @@
       "mcp__playwright__browser_take_screenshot",
       "mcp__playwright__browser_click",
       "mcp__playwright__browser_close",
-      "Bash(pkill -f \"vite\")"
+      "Bash(pkill -f \"vite\")",
+      "Bash(Get-ChildItem -Path \"F:\\\\repos\\\\Personal-Tools\\\\my-toolbox-fe\" -Recurse -Include \"*.tsx\",\"*.ts\",\"*.json\")",
+      "Bash(Select-Object -ExpandProperty FullName)"
     ]
   }
 }

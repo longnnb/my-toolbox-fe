@@ -6,7 +6,7 @@ import CssBaseline from '@mui/material/CssBaseline'
 import theme from './theme.ts'
 import App from './App.tsx'
 import Home from './pages/Home.tsx'
-import Bookmarks from './pages/Bookmarks.tsx'
+import Bookmarks from './pages/Bookmarks/index.tsx'
 import HabitsTracker from './pages/HabitsTracker.tsx'
 import Library from './pages/Library.tsx'
 
